@@ -1,3 +1,2 @@
 # Define the variable board below.
-def board = [" "," "," "," "," "," "," "," "," "]
-END
+def board = []
